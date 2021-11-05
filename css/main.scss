@@ -227,9 +227,9 @@ table {
   text-align: center;
   img {
     width: 1445px;
-    height: 1330px;
+    height: 1150px;
   };
-      margin: -10px;
+      margin: 0px;
     padding: 0px;
 }
 
@@ -247,7 +247,7 @@ table {
   }
 
 .NRT_text_column {
-  font-size: 22px;
+  font-size: 24px;
   padding: 5px;
 }
 
@@ -302,10 +302,10 @@ li {
   align-items: center;
   text-align: center;
   img {
-    width: 600px;
+    width: 650px;
     height: 500px;
   }
-  margin: -100px;
+  margin: -35px 0px -90px 0px;
 }
 
 .first_banner_text_for_website {
@@ -313,7 +313,7 @@ li {
   color: black;
   text-align: center;
   font-size: 30px;
-  margin: -100px -30px -80px -30px;
+  margin: -100px 0px -80px 0px;
   padding: 15px;
   font-weight: bold;
   z-index: 2;
@@ -325,7 +325,7 @@ li {
     align-items: center;
     text-align: center;
     img {
-      width: 500px;
+      width: 490px;
     }
     margin:  -80px;
 }
@@ -335,7 +335,7 @@ li {
   color: black;
   text-align: center;
   font-size: 30px;
-  margin: 0px -30px -80px -30px;
+  margin: 0px 0px -60px 0px;
   padding: 15px;
   font-weight:bold;
   z-index: 2;
@@ -573,4 +573,10 @@ table {
 
 .scrap_summary_table_heading_for_website {
   text-align: center;
+}
+
+
+.navbar_adjust_behind_STM_image_for_website {
+  position:absolute;
+  z-index: 1;
 }

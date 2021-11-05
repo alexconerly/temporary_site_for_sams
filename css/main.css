@@ -234,13 +234,13 @@ th, td {
 
 .NRT_year_to_year_line_graph {
   text-align: center;
-  margin: -10px;
+  margin: 0px;
   padding: 0px;
 }
 
 .NRT_year_to_year_line_graph img {
   width: 1445px;
-  height: 1330px;
+  height: 1150px;
 }
 
 .red_color {
@@ -257,7 +257,7 @@ th, td {
 }
 
 .NRT_text_column {
-  font-size: 22px;
+  font-size: 24px;
   padding: 5px;
 }
 
@@ -292,11 +292,11 @@ li {
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  margin: -100px;
+  margin: -35px 0px -90px 0px;
 }
 
 .STM_logo_for_website img {
-  width: 600px;
+  width: 650px;
   height: 500px;
 }
 
@@ -305,7 +305,7 @@ li {
   color: black;
   text-align: center;
   font-size: 30px;
-  margin: -100px -30px -80px -30px;
+  margin: -100px 0px -80px 0px;
   padding: 15px;
   font-weight: bold;
   z-index: 2;
@@ -324,7 +324,7 @@ li {
 }
 
 .Customer_logo_image_for_website img {
-  width: 500px;
+  width: 490px;
 }
 
 .second_banner_text_for_website {
@@ -332,7 +332,7 @@ li {
   color: black;
   text-align: center;
   font-size: 30px;
-  margin: 0px -30px -80px -30px;
+  margin: 0px 0px -60px 0px;
   padding: 15px;
   font-weight: bold;
   z-index: 2;
@@ -565,5 +565,10 @@ th, td {
 
 .scrap_summary_table_heading_for_website {
   text-align: center;
+}
+
+.navbar_adjust_behind_STM_image_for_website {
+  position: absolute;
+  z-index: 1;
 }
 /*# sourceMappingURL=main.css.map */
