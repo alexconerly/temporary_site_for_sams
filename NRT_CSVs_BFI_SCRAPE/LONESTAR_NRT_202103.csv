@@ -1,0 +1,48 @@
+NRT Summary
+
+Run Date,11-08-2021
+Only Show Inventory Locations,No
+Companies,"SOUTHERN TIRE MART, LLC"
+All Plants,Yes
+Customer,"LONE STAR TRANSPORTATION, INC."
+All Locations,Yes
+Start Date,2021-03-01
+End Date,2021-03-31
+Include adjustments,No
+Include casing credits,No
+Include scraps,Yes
+Include NRTs,Yes
+Include rejects,Yes
+Include Pending RARs,No
+Group By 1,
+Group By 2,
+Group By 3,
+Group By 4,
+Group By 5,NRT Code
+Threshold,None
+Sort by percent,No
+
+NRT Code,Description,Total,% of Total
+2001,Crown Cut(s)/Puncture(s),1,1.47%
+2002,Sidewall Cut(s)/Snag(s),1,1.47%
+2003,Combination Of Crown Cut(s)/Pu,1,1.47%
+2004,Run Under-Inflated,1,1.47%
+2007,Excessive Sidewall Abrasion,1,1.47%
+2008,Brake Skid(s),1,1.47%
+2009,Pinch Shock,1,1.47%
+2010,Rock Drilling,1,1.47%
+2017,Contact With Vehicle Component,2,2.94%
+2102,Worn Too Far,2,2.94%
+2202,Belt Separation (Radial Only),4,5.88%
+2203,Bead Separation/Splitting,1,1.47%
+2204,Liner Defect(s),1,1.47%
+2205,Shoulder Separation,5,7.35%
+2302,Casing Age Exceeds Fleet Specs,21,30.88%
+2303,Repairs Exceed Fleet Specs,2,2.94%
+2304,Casing Grade Below Fleet Specs,2,2.94%
+2305,Tire Size/Type Not Retreaded,14,20.59%
+2309,Tire Size Outside Fleet Specs,4,5.88%
+2401,Repair Failure - Bandag Sectio,1,1.47%
+2406,Injuries Too Large,1,1.47%
+Grand Total,,68,
+Total:,***Grand Totals***

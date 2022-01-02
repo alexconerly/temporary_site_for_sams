@@ -1,0 +1,37 @@
+NRT Summary
+
+Run Date,11-08-2021
+Only Show Inventory Locations,No
+Companies,"SOUTHERN TIRE MART, LLC"
+All Plants,Yes
+Customer,"LONE STAR TRANSPORTATION, INC."
+All Locations,Yes
+Start Date,2021-06-01
+End Date,2021-06-30
+Include adjustments,No
+Include casing credits,No
+Include scraps,Yes
+Include NRTs,Yes
+Include rejects,Yes
+Include Pending RARs,No
+Group By 1,
+Group By 2,
+Group By 3,
+Group By 4,
+Group By 5,NRT Code
+Threshold,None
+Sort by percent,No
+
+NRT Code,Description,Total,% of Total
+2002,Sidewall Cut(s)/Snag(s),1,6.25%
+2006,Impact Split(s),2,12.50%
+2023,Bead Damage From Brake Heat,1,6.25%
+2202,Belt Separation (Radial Only),1,6.25%
+2205,Shoulder Separation,1,6.25%
+2301,Times Retreaded Exceeds Fleet,2,12.50%
+2302,Casing Age Exceeds Fleet Specs,2,12.50%
+2303,Repairs Exceed Fleet Specs,1,6.25%
+2305,Tire Size/Type Not Retreaded,4,25.00%
+2308,Tread Design Outside Fleet Spe,1,6.25%
+Grand Total,,16,
+Total:,***Grand Totals***
