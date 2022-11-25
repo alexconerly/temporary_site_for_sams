@@ -1,11 +1,8 @@
 .STM_logo {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   text-align: center;
   margin: -116px;
 }
-
 .STM_logo img {
   width: 1400px;
   height: 700px;
@@ -21,19 +18,14 @@
   font-weight: bold;
   z-index: 2;
   position: relative;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
 
 .Customer_logo_image {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   text-align: center;
   margin: -200px;
 }
-
 .Customer_logo_image img {
   width: 1030px;
 }
@@ -48,9 +40,7 @@
   font-weight: bold;
   z-index: 2;
   position: relative;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
 
 .district_title {
@@ -61,7 +51,7 @@
   margin: 30px 40px 40px 40px;
   padding: 30px;
   font-style: italic;
-  font-family: 'Arial';
+  font-family: "Arial";
 }
 
 .bridgestone_and_bandag_logo_container {
@@ -70,18 +60,14 @@
 }
 
 .bridgestone_logo {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   width: 590px;
   height: 360px;
   margin-right: 40px;
 }
 
 .bandag_logo {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   width: 500px;
   height: 220px;
   margin-left: 40px;
@@ -90,7 +76,6 @@
 .bandag_logo {
   text-align: right;
 }
-
 .bandag_logo img {
   width: 5px;
 }
@@ -105,7 +90,7 @@
   text-align: center;
   font-size: 68px;
   font-weight: bold;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
 .page_title_smaller {
@@ -113,7 +98,7 @@
   text-align: center;
   font-size: 50px;
   font-weight: bold;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
 table {
@@ -185,7 +170,6 @@ th, td {
 .nrt_graph {
   text-align: center;
 }
-
 .nrt_graph img {
   width: 1400px;
   height: 800px;
@@ -194,7 +178,6 @@ th, td {
 .nrt_graph_SUMMARY {
   text-align: center;
 }
-
 .nrt_graph_SUMMARY img {
   width: 1400px;
   height: 935px;
@@ -203,7 +186,6 @@ th, td {
 .main_table_line_graphs {
   text-align: center;
 }
-
 .main_table_line_graphs img {
   width: 1200px;
   height: 675px;
@@ -212,7 +194,6 @@ th, td {
 .sales_percentage_breakdown_bar {
   text-align: center;
 }
-
 .sales_percentage_breakdown_bar img {
   width: 1445px;
   height: 900px;
@@ -222,7 +203,6 @@ th, td {
 .fit_three_graphs_on_pdf_page {
   text-align: center;
 }
-
 .fit_three_graphs_on_pdf_page img {
   width: 1350px;
   height: 675px;
@@ -237,7 +217,6 @@ th, td {
   margin: 0px;
   padding: 0px;
 }
-
 .NRT_year_to_year_line_graph img {
   width: 1445px;
   height: 1150px;
@@ -283,18 +262,15 @@ li {
   display: inline-block;
   margin: 20px 15px;
   font-size: 19px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   color: red;
 }
 
 .STM_logo_for_website {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   text-align: center;
   margin: -35px 0px -90px 0px;
 }
-
 .STM_logo_for_website img {
   width: 650px;
   height: 500px;
@@ -310,19 +286,14 @@ li {
   font-weight: bold;
   z-index: 2;
   position: relative;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
 
 .Customer_logo_image_for_website {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   text-align: center;
   margin: -80px;
 }
-
 .Customer_logo_image_for_website img {
   width: 490px;
 }
@@ -337,9 +308,7 @@ li {
   font-weight: bold;
   z-index: 2;
   position: relative;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
 
 .bridgestone_and_bandag_logo_container_for_website {
@@ -348,18 +317,14 @@ li {
 }
 
 .bridgestone_logo_for_website {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   width: 300px;
   height: 100px;
   margin-right: 40px;
 }
 
 .bandag_logo_for_website {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   width: 240px;
   height: 260px;
   margin-left: 40px;
@@ -368,7 +333,6 @@ li {
 .bandag_logo_for_website {
   text-align: right;
 }
-
 .bandag_logo_for_website img {
   width: 5px;
 }
@@ -383,7 +347,7 @@ li {
   text-align: center;
   font-size: 68px;
   font-weight: bold;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
 .page_title_smaller_for_website {
@@ -391,7 +355,7 @@ li {
   text-align: center;
   font-size: 50px;
   font-weight: bold;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
 table {
@@ -470,7 +434,6 @@ th, td {
 .nrt_graph_for_website {
   text-align: center;
 }
-
 .nrt_graph_for_website img {
   width: 1400px;
   height: 800px;
@@ -479,7 +442,6 @@ th, td {
 .nrt_graph_SUMMARY_for_website {
   text-align: center;
 }
-
 .nrt_graph_SUMMARY_for_website img {
   width: 1400px;
   height: 935px;
@@ -489,7 +451,6 @@ th, td {
   text-align: center;
   margin: 50px;
 }
-
 .main_table_line_graphs_for_website img {
   width: 1200px;
   height: 675px;
@@ -498,7 +459,6 @@ th, td {
 .sales_percentage_breakdown_bar_for_website {
   text-align: center;
 }
-
 .sales_percentage_breakdown_bar_for_website img {
   width: 900px;
   height: 650px;
@@ -514,7 +474,6 @@ th, td {
   margin: -10px;
   padding: 0px;
 }
-
 .NRT_year_to_year_line_graph_for_website img {
   width: 1445px;
   height: 1330px;
@@ -551,8 +510,7 @@ th, td {
 }
 
 .download_button {
-  background-color: royalblue;
-  /* Green */
+  background-color: royalblue; /* Green */
   border: none;
   color: white;
   padding: 14px 30px;
@@ -570,5 +528,4 @@ th, td {
 .navbar_adjust_behind_STM_image_for_website {
   position: absolute;
   z-index: 1;
-}
-/*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=main.css.map */
